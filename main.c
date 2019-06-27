@@ -1,5 +1,3 @@
-Name : Danyal Javed
-Roll no. : CS-133
 
 //Smoker’s Problem using Semaphore
 #include <pthread.h>
